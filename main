@@ -14,9 +14,9 @@ local Window = Rayfield:CreateWindow({
 		Invite = "srR89Mge", 
 		RememberJoins = true 
 	},
-	KeySystem = true, 
+	KeySystem = false, 
 	KeySettings = {
-		Title = "Key | GHOST Hub",
+		Title = "Key | GHOST HUB",
 		Subtitle = "Key System",
 		Note = "Key In Discord Server: https://discord.gg/srR89Mge",
 		FileName = "GHOSTHubKey1", 
